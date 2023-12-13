@@ -27,7 +27,7 @@ const App = () => (
           alt="Ant Design"
         />
         <Title level={2} style={{ marginBottom: 0 }}>
-          Ant Design test
+          Ant Design test2
         </Title>
       </Space>
     </section>
